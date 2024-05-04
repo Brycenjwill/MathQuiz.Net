@@ -300,7 +300,7 @@
             // 
             startButton.AutoSize = true;
             startButton.Font = new Font("Segoe UI", 14F);
-            startButton.Location = new Point(15, 12);
+            startButton.Location = new Point(12, 18);
             startButton.Name = "startButton";
             startButton.Size = new Size(137, 35);
             startButton.TabIndex = 0;
